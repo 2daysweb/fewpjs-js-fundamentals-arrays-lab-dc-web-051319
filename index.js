@@ -9,5 +9,10 @@ let removeLast = ["Milo", "Otis", "Garfield", "Odie"]
 let removeFirst = ["Milo", "Otis", "Garfield", "Odie"]
 
 
+append.push("Otie")
+
+prepend.unshift("")
+
+
 
 
