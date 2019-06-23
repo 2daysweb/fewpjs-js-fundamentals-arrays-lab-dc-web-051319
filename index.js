@@ -1,6 +1,10 @@
 // Write your solution here!
 
-let pets = ["Milo", "Otis", "Garfield", "Odie"]
+const append = ["Milo", "Otis", "Garfield", "Odie"]
+
+const prepend = 
+
+const 
 
 function append(p1) {
   
