@@ -1,6 +1,6 @@
 // Write your solution here!
 
-const append = ["Milo", "Otis", "Garfield", "Odie"]
+let append = ["Milo", "Otis", "Garfield", "Odie"]
 
 const prepend = 
 
