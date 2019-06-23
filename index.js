@@ -2,12 +2,12 @@
 
 let append = ["Milo", "Otis", "Garfield", "Odie"]
 
-const prepend = 
+let prepend = ["Milo", "Otis", "Garfield", "Odie"]
 
-const 
+let removeLast = ["Milo", "Otis", "Garfield", "Odie"]
 
-function append(p1) {
-  
-  pets.push("Odie")
-  
-}
+let removeFirst = ["Milo", "Otis", "Garfield", "Odie"]
+
+
+
+
