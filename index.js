@@ -2,9 +2,7 @@
 
 pets = ["Milo", "Otis", "Garfield", "Odie"]
 
-function append(pet0) {
-  
-
+function append(p1) {
   
   array.push("Odie")
   
