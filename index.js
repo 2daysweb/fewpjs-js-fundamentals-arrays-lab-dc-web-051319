@@ -4,6 +4,6 @@ pets = ["Milo", "Otis", "Garfield", "Odie"]
 
 function append(p1) {
   
-  array.push("Odie")
+  pets.push("Odie")
   
 }
