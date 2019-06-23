@@ -1,6 +1,10 @@
 // Write your solution here!
 
-function append() {
+pets = ["Milo", "Otis", "Garfield", "Odie"]
+
+function append(pet0) {
+  
+
   
   array.push("Odie")
   
