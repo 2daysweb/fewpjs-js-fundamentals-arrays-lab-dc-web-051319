@@ -1,3 +1,7 @@
 // Write your solution here!
 
-function append(array) 
+function append(array) {
+  
+  array.push("Odie")
+  
+}
